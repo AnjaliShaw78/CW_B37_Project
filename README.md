@@ -23,12 +23,16 @@ https://drive.google.com/file/d/1O4e_bf5TGB2g8NmQscnjByA6PVWZuwu0/view?usp=drive
   
   TEST SCENARIO AND TEST CASES
   https://drive.google.com/file/d/1cHo-VH-eMsKbXcA1Edrzx9NDQ3M6eeo8/view?usp=drive_link
+  
   BUG REPORT
   https://drive.google.com/file/d/1eRxiU5ehb8Al5A5R37WkM8HkzpWcREqG/view?usp=sharing
+
   MIND MAP
   https://drive.google.com/file/d/1vRiwjpMy1GdRPRUCPeEvOLE6CNsqw9Jt/view?usp=drive_link
+  
   SUMMARY REPORT
   https://drive.google.com/file/d/1_qSFdCPT730cAF-vkk0Xy_2noWvXm1yO/view?usp=drive_link
+ 
   ## RECOMMENDATION AND SUGGESTION
   Based on examination of the Tutorials Ninja web application here are following suggestion
   1-Add photos of every product: It will allow user to find products 
