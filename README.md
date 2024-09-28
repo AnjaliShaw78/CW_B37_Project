@@ -20,20 +20,12 @@ https://drive.google.com/file/d/1O4e_bf5TGB2g8NmQscnjByA6PVWZuwu0/view?usp=drive
   
   Features to be tested
 ## TEST ARTFACTS
-  TEST PLAN
-  https://drive.google.com/file/d/1ZYZplVbD4-CS0hrslLSDNm0nPS4NiqLG/view?usp=drive_link
-  
-  TEST SCENARIO AND TEST CASES
-  https://drive.google.com/file/d/1cHo-VH-eMsKbXcA1Edrzx9NDQ3M6eeo8/view?usp=drive_link
-  
-  BUG REPORT
-  https://drive.google.com/file/d/1eRxiU5ehb8Al5A5R37WkM8HkzpWcREqG/view?usp=sharing
+- [Test Plan](https://drive.google.com/file/d/1ZYZplVbD4-CS0hrslLSDNm0nPS4NiqLG/view?usp=drive_link)
+- [Test Scenarios and Test Cases](https://drive.google.com/file/d/1cHo-VH-eMsKbXcA1Edrzx9NDQ3M6eeo8/view?usp=drive_link)
+- [Bug Report](https://drive.google.com/file/d/1eRxiU5ehb8Al5A5R37WkM8HkzpWcREqG/view?usp=sharing)
+- [Mind Map](https://drive.google.com/file/d/1vRiwjpMy1GdRPRUCPeEvOLE6CNsqw9Jt/view?usp=drive_link)
+- [Summary Report](https://drive.google.com/file/d/1_qSFdCPT730cAF-vkk0Xy_2noWvXm1yO/view?usp=drive_link)
 
-  MIND MAP
-  https://drive.google.com/file/d/1vRiwjpMy1GdRPRUCPeEvOLE6CNsqw9Jt/view?usp=drive_link
-  
-  SUMMARY REPORT
-  https://drive.google.com/file/d/1_qSFdCPT730cAF-vkk0Xy_2noWvXm1yO/view?usp=drive_link
  
   ## RECOMMENDATION AND SUGGESTION
   Based on examination of the Tutorials Ninja web application here are following suggestion
