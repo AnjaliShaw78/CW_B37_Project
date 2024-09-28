@@ -1,4 +1,6 @@
 # TUTORIALS NINJA - An e-commerce website for shopping 
+![Screenshot 2024-09-16 174034](https://github.com/user-attachments/assets/823982a7-a9cf-411f-8ebd-43cc01198cca)
+
 ## INTRODUCTION
  Tutorials Ninja is an e-commerce website for shopping of electronics and digital items.Here I perform 
  functional and usabilty testing .
